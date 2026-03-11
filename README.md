@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arsln35
 - 👀 I’m interested in Sports!
-- 🌱 I’m currently learning Phyton 
+- 🌱 I Know Python and Java 
 - 📫 How to reach me by anilenesarslan@gmail.com
 - 😄 Pronouns: ns
 
